@@ -2,9 +2,9 @@
 - 🌱 I’m currently in my second year of studying Computer Science at [TU Dublin Grangegorman](https://www.tudublin.ie/explore/our-campuses/grangegorman/) in Dublin🌱
 - 📫 Contact me by email: C23389191@mytudublin.ie 📫
 
-# Connect with me on LinkedIn
+## Connect with me on LinkedIn
 <a href="https://www.linkedin.com/in/susanna-perkins-6905bb296" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30px" style="padding-right:10px;" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px" style="padding-right:10px;" />
 </a>
 
 
