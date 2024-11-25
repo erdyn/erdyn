@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Susie 👋
+#👋 Hi, I’m Susie 👋
 - 🌱 I’m currently learning Computer Science 🌱
 - 📫 Contact me by email: C23389191@mytudublin.ie 📫
 
@@ -8,7 +8,7 @@
 </a>
 
 <br/>
-### Languages and Tools
+# Languages and Tools
 <br/> <br/>
 
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -22,3 +22,5 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 <br />
+
+#
