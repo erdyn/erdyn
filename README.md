@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Susie 👋
 - 🌱 I’m currently learning Computer Science 🌱
 - 📫 Contact me by email: C23389191@mytudublin.ie 📫
-- 😄 Pronouns: She/her 😄
-- ⚡ Fun fact:  73 is my favourite number ⚡
+
+# Connect with me on LinkedIn
+<a href="https://www.linkedin.com/in/susanna-perkins-6905bb296" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30px" style="padding-right:10px;" />
+</a>
 
 <br/>
 ### Languages and Tools
