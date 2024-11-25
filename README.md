@@ -1,13 +1,9 @@
 # Hi, I’m Susie 👋
-- 🌱 I’m currently in my second year of studying [Computer Science] at [TU Dublin Grangegorman](https://www.tudublin.ie/explore/our-campuses/grangegorman/) in Dublin🌱
+- 🌱 I’m currently in my second year of studying [Computer Science](https://www.tudublin.ie/study/undergraduate/courses/computer-science-tu856/) at [TU Dublin Grangegorman](https://www.tudublin.ie/explore/our-campuses/grangegorman/) in Dublin🌱
 - 📫 Contact me by email: C23389191@mytudublin.ie 📫
 <br />
 
-### Connect with me on LinkedIn
-<br />
-<a href="https://www.linkedin.com/in/susanna-perkins-6905bb296" target="_blank">
-  -> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px" style="padding-right:10px;" />
-</a>
+###<a href="https://www.linkedin.com/in/susanna-perkins-6905bb296" target="_blank"> Connect with me on LinkedIn <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px" style="padding-right:10px;" /> </a>
 
 <br /><br />
 # Languages and Tools
