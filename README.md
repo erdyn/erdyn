@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Susie 👋 -
-- 🌱 I’m currently learning Computer Science 🌱 -
-- 📫 Contact me by email: C23389191@mytudublin.ie 📫 -
-- 😄 Pronouns: She/her 😄 -
-- ⚡ Fun fact:  73 is my favourite number ⚡-
+- 👋 Hi, I’m Susie 👋
+- 🌱 I’m currently learning Computer Science 🌱
+- 📫 Contact me by email: C23389191@mytudublin.ie 📫
+- 😄 Pronouns: She/her 😄
+- ⚡ Fun fact:  73 is my favourite number ⚡
