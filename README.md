@@ -2,7 +2,7 @@
 - 🌱 I’m currently in my second year of studying [Computer Science](https://www.tudublin.ie/study/undergraduate/courses/computer-science-tu856/) at [TU Dublin Grangegorman](https://www.tudublin.ie/explore/our-campuses/grangegorman/)🌱
 - 📫 Contact me by email: C23389191@mytudublin.ie 📫
 
-<h3 text-decoration: none;> <a color: white; href="https://www.linkedin.com/in/susanna-perkins-6905bb296" target="_blank"> Connect with me on LinkedIn <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px" style="padding-right:10px;" /> </a> </h3>
+<h3 text-decoration: none;> <a href="https://www.linkedin.com/in/susanna-perkins-6905bb296" style="color: white; text-decoration: none;" target="_blank"> Connect with me on LinkedIn <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px" style="padding-right:10px;" /> </a> </h3>
 
 # Languages and Tools
 
