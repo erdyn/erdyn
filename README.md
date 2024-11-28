@@ -1,10 +1,4 @@
-<div style="display: inline-block; vertical-align: middle;">
-  <h2 style="display: inline;">Hi, I’m Susie 👋</h2>
-</div>
-<div style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-  <img alt="kitty" src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="50px">
-</div>
-
+### Hi, I’m Susie 👋 <img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="50px" style="vertical-align: middle; margin-left: 10px;">
 
 - 🌱 I’m currently in my second year of studying [Computer Science](https://www.tudublin.ie/study/undergraduate/courses/computer-science-tu856/) at [TU Dublin Grangegorman](https://www.tudublin.ie/explore/our-campuses/grangegorman/)🌱
 - 📫 Contact me by email: C23389191@mytudublin.ie 📫
