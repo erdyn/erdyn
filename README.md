@@ -24,7 +24,7 @@
 ---
 
 <div style="margin-top: 50px;" align="center">
-  <img alt="WelcomeGif" width="450px" src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/welcomeGIF.gif">
+  <img alt="WelcomeGif" width="800px" src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/bannerWelcomegif.gif">
 </div>
 
 ---
