@@ -29,4 +29,3 @@
   <img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/welcomeGIF.gif" alt="WelcomeGif">
 </div>
 <br>
----
