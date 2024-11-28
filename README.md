@@ -21,4 +21,4 @@
 <img align="left" alt="Top Languages" width="400px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdyn"/>
 
 ###
-![WelcomeGif](https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/welcomeGIF.gif)
+
