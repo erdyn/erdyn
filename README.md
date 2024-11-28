@@ -22,7 +22,7 @@
 ---
 
 <div style="margin-top: 50px;" align="center">
-  <img alt="WelcomeGif" width="600px" height="150px"; src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/bannerWelcomegif.gif">
+  <img alt="WelcomeGif" width="700px" height="150px"; src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/bannerWelcomegif.gif">
 </div>
 
 ---
