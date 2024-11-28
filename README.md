@@ -21,14 +21,14 @@
 
 ### Top Languages :)
 <img align="left" alt="Top Languages" width="400px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdyn"/>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
 
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 <div style="margin-top: 50px;" align="center">
   <img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/welcomeGIF.gif" alt="WelcomeGif">
 </div>
