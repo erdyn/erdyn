@@ -15,13 +15,12 @@
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
-<br />
+<br /><br />
 
   ### Top Languages :)
   <img alt="Top Languages" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdyn"/>
 
-<br><br><br><br><br><br><br><br><br><br>
-
+<br><br><br><br><br><br><br>
 
 ---
 
