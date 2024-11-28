@@ -19,9 +19,9 @@
 
 ---
 
-### Top Languages :)
 <div align="center">
-<img align="left" alt="Top Languages" width="400px" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdyn"/>
+  <h3> Top Languages :)</h3>
+  <img alt="Top Languages" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdyn"/>
 </div>
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -30,7 +30,7 @@
 
 <br><br>
 <div style="margin-top: 50px;" align="center">
-  <img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/welcomeGIF.gif" alt="WelcomeGif">
+  <img alt="WelcomeGif" width="600px" src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/welcomeGIF.gif">
 </div>
 <br>
 
