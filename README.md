@@ -24,7 +24,7 @@
 <br>
 
 
-<br>
+<br><br><br><br><br><br><br><br><br><br><br>
 <div style="margin-top: 50px;" align="center">
   <img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/welcomeGIF.gif" alt="WelcomeGif">
 </div>
