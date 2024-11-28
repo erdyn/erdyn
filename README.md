@@ -1,6 +1,8 @@
-<div style="display: flex; align-items: center;">
-   <h2 style="margin: 0;">Hi, I’m Susie 👋</h2>
-   <img alt="kitty" src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="70px" style="margin-left: 10px;">
+<div style="display: inline-block; vertical-align: middle;">
+  <h2 style="display: inline;">Hi, I’m Susie 👋</h2>
+</div>
+<div style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+  <img alt="kitty" src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="50px">
 </div>
 
 
