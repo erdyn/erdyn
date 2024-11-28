@@ -20,7 +20,7 @@
   ### Top Languages :)
   <img alt="Top Languages" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdyn"/>
 
-<br><br><br><br><br><br><br>
+<br><br>
 
 ---
 
