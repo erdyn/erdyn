@@ -21,7 +21,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img alt="Top Languages" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdyn"/>
 
-  <img alt="kitty" style="padding-left: 200px;" src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif">
+  <img alt="kitty" style="padding-left: 500px;" src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif">
 </div>
 
 ---
