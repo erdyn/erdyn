@@ -1,4 +1,4 @@
-# Hi, I’m Susie <img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="500px" style="vertical-align: middle; margin-left: 10px;">
+# Hi, I’m Susie <img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="100px" style="vertical-align: middle; margin-left: 10px;">
 
 - 🌱 I’m currently in my second year of studying [Computer Science](https://www.tudublin.ie/study/undergraduate/courses/computer-science-tu856/) at [TU Dublin Grangegorman](https://www.tudublin.ie/explore/our-campuses/grangegorman/)🌱
 - 📫 Contact me by email: C23389191@mytudublin.ie 📫
