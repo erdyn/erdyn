@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
    <h2>Hi, I’m Susie 👋</h2>
-   <img alt="kitty" src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif">
+   <img alt="kitty" src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="50px">
 </div>
 
 - 🌱 I’m currently in my second year of studying [Computer Science](https://www.tudublin.ie/study/undergraduate/courses/computer-science-tu856/) at [TU Dublin Grangegorman](https://www.tudublin.ie/explore/our-campuses/grangegorman/)🌱
