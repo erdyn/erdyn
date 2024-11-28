@@ -19,7 +19,7 @@
 
   ### Top Languages :)
   <img alt="Top Languages" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdyn"/>
-<div align="right">
+<div style="float: right; padding-left: 50px;">
   <img alt="kitty" src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif">
 </div>
 
