@@ -19,12 +19,11 @@
 </div>
 <br /><br />
 
+<!-- Github stats -->
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=erdyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <br /><br />
-### Top Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=erdyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br /><br />
+
 ---
 <!-- Welcome GIF -->
 <div style="margin-top: 50px;" align="center">
