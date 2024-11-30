@@ -22,7 +22,9 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=erdyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <br /><br />
-
+### Top Languages:
+[![](https://visitcount.itsvg.in/api?id=erdyn&icon=0&color=0)](https://visitcount.itsvg.in)
+<br /><br />
 ---
 <!-- Welcome GIF -->
 <div style="margin-top: 50px;" align="center">
