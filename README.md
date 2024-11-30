@@ -1,6 +1,6 @@
 # Hi, I’m Susie <img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="100px" style="vertical-align: middle; margin-left: 10px;">
 
-- 🌱 I’m currently in my second year of studying [Computer Science](https://www.tudublin.ie/study/undergraduate/courses/computer-science-tu856/) at [TU Dublin Grangegorman](https://www.tudublin.ie/explore/our-campuses/grangegorman/)🌱
+- 🌱 In my 2nd year of [Computer Science](https://www.tudublin.ie/study/undergraduate/courses/computer-science-tu856/) at [TU Dublin Grangegorman](https://www.tudublin.ie/explore/our-campuses/grangegorman/)🌱
 - 📫 Contact me by email: C23389191@mytudublin.ie 📫
 - <a href="https://www.linkedin.com/in/susanna-perkins-6905bb296" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25px" style="padding-right:10px;" /></a> Connect with me on<a href="https://www.linkedin.com/in/susanna-perkins-6905bb296" target="_blank"> LinkedIn <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25px" style="padding-right:10px;" /> </a>
 <br>
