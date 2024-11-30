@@ -4,7 +4,7 @@
 - 📫 Contact me by email: C23389191@mytudublin.ie 📫
 - <a href="https://www.linkedin.com/in/susanna-perkins-6905bb296" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25px" style="padding-right:10px;" /></a> Connect with me on<a href="https://www.linkedin.com/in/susanna-perkins-6905bb296" target="_blank"> LinkedIn <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25px" style="padding-right:10px;" /> </a>
 <br>
-### ⚙️ Languages and Tools
+⚙️ Languages and Tools
 <!-- Language Icons -->
 <div style="display: flex; align-items: center; gap: 10px;">
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />     
